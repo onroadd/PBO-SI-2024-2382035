@@ -16,7 +16,7 @@ public class Membuatvariabel {
 
         long showInfo; // kata kerja itu untuk method
 
-        // camelCase -> misaelHendrikhWitjaksono
+        // camelCase -> ricovalentinositinjak
         // kebab-case
         // snake_case
 
